@@ -1,0 +1,3 @@
+Succulent; Aloe Vera; 8.00; Leafy
+Flower; Rose; 3.00; Red
+SSS; Tulip; 2.50; Yellow
