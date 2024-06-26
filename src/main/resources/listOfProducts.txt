@@ -1,0 +1,14 @@
+Succulent; Echeveria; 5.00; Leafy
+Succulent; Jade Plant; 7.50; Leafy
+Succulent; Cactus; 4.00; Stem
+Succulent; String of Pearls; 6.00; Leafy
+Succulent; Aloe Vera; 8.00; Leafy
+Flower; Rose; 3.00; Red
+Flower; Tulip; 2.50; Yellow
+Flower; Daisy; 2.00; White
+Flower; Lily; 4.50; Pink
+Flower; Sunflower; 3.50; Yellow
+Hsbkvsj;ddd;ddd
+d12ds0cs2
+ds2df5f5
+Hsbkvsj; ddd; 0.5; jj
